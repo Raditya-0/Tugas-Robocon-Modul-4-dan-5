@@ -131,8 +131,3 @@ ros2 run smile_drawer smile_drawer_node
 
 - Terima kasih kepada komunitas ROS2 dan turtlesim
 - Terinspirasi dari tutorial dan contoh ROS2
-
-## Kontak
-
-Nama Anda - Raditya Akmal
-Link Proyek: [https://github.com/Raditya-0/Tugas-Robocon-Modul-4-dan-5]((https://github.com/Raditya-0/Tugas-Robocon-Modul-4-dan-5))
